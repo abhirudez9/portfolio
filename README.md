@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirudez9&label=Profile%20views&color=0e75b6&style=flat" alt="abhirudez9" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rudezportfolio.netlify.app/](https://rudezportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rudezportfolio.netlify.app/]((https://abhishekportfoliooo.netlify.app/))
 
 - 📫 How to reach me **abhishekkumarsharmacse@gmail.com**
 
